@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpsdata>
+	<delimiter>,</delimiter>
+	<packet>
+		<data>packetType,0</data>
+		<data>protocolVersion,1</data>
+		<data>IMEI,2</data>
+		<data>datetime,2</data>
+		<data>livedata,2</data>
+		<data>gpsstatus,2</data>
+		<data>latitude,2</data>
+		<data>longitude,2</data>
+		<data>altitude,2</data>
+		<data>speed,2</data>
+		<data>direction,2</data>
+		<data>odometer,2</data>
+		<data>gpsMoveStatus,2</data>
+		<data>ExternalBatteryVolt,2</data>
+		<data>InternalBatteryVolt,2</data>
+		<data>gsmSignal,2</data>
+		<data>lac,2</data>
+		<data>cellId,2</data>
+		<data>mcc,2</data>
+		<data>alertMsgCode,2</data>
+		<data>sensorInterface,2</data>
+		<data>anologInput,2</data>
+		<data>digitalInput,2</data>
+		<data>output1,2</data>
+		<data>sequenceNumber,2</data>
+		<data>checkSum,2</data>
+	</packet>
+</gpsdata>
+
